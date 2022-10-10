@@ -1,0 +1,4 @@
+[target.x86_64-apple-darwin]
+
+rustflags = ["-C", "link-arg=-fuse-ld=/Users/alexkelley/Dropbox/code/rust/zld/build/Build/Products/Release
+/zld"]
